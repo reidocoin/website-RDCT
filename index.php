@@ -62,7 +62,7 @@ if(!empty($_REQUEST['ref'])){
                         <li><a href="#timeline">TIMELINE</a></li>
                         <li><a href="#roadmap">ROAD MAP</a></li>
                         <!--<li><a href="#questions">F.A.Q</a></li>-->
-                        <li><a href="#downloads">Downloads</a></li>
+                        <li><a href="#downloads">DOWNLOADS</a></li>
                     </ul>
                 </nav>
                 <a href="https://rdctoken.io/admin" class="btn small">LOGIN</a>
@@ -87,12 +87,12 @@ if(!empty($_REQUEST['ref'])){
                 </div>
                 
                 <div class="main-header-coin-bar">
-                    <p>Sistema inovador e totalmente diferenciado de levar a seus usuarios a possibilidade de aquisição de ativos do projeto.</p>
+                    <p>Sistema inovador e totalmente diferenciado de levar a seus usuários a possibilidade de aquisição de ativos do projeto.</p>
                 </div>
 
                 <div class="main-header-coin-helper">
                     <img src="assets/site/img/setaazulclaro.png">
-                    <p>Confira nosso site em outros idioma.</p>
+                    <p>Confira nosso site em outro idioma.</p>
 
                 </div>
 
@@ -136,15 +136,15 @@ if(!empty($_REQUEST['ref'])){
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-2.png" alt="">
-                    <p>ABREVIAÇÃO DA <br>MOEDA: RDCT</p>
+                    <p>SIGLA DA <br>MOEDA: RDCT</p>
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-3.png" alt="">
-                    <p>Supply Maximo <br> MÁXIMO: RDCT25.5 MILHÕES</p>
+                    <p>SUPPLY MÁXIMO: <br>RDCT 25.5 MILHÕES</p>
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-4.png" alt="">
-                    <p>PRÉ MINERADAS: <br>RDCT3.75 MILHÕES</p>
+                    <p>PRÉ MINERADAS: <br>RDCT 3.75 MILHÕES</p>
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-5.png" alt="">
@@ -152,7 +152,7 @@ if(!empty($_REQUEST['ref'])){
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-6.png" alt="">
-                    <p>RECOMPENSAS POR <br>5 RDCT</p>
+                    <p>RECOMPENSAS POR BLOCO: <br>5 RDCT</p>
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-7.png" alt="">
@@ -160,12 +160,12 @@ if(!empty($_REQUEST['ref'])){
                 </div>
                 <div class="specification-item">
                     <img src="assets/site/img/icon-8.png" alt="">
-                    <p>MASTERNODE<br>7.500 RDCT</p>
+                    <p>MASTERNODE: <br>7.500 RDCT</p>
                 </div>
 
                 <div class="specification-item">
                     <img src="assets/site/img/icon-9.png" alt="">
-                    <p>BLOCK REWARD <br>20 anos</p>
+                    <p>BLOCK REWARD: <br>20 anos</p>
                 </div>
 
                 <div class="specification-item">
@@ -186,13 +186,13 @@ if(!empty($_REQUEST['ref'])){
                     </div>
                     <div class="why-rdctoken-item-text">
                         <h4>RÁPIDO</h4>
-                        <p>A confirmação das transações acontecem em questões de segundos</p>
+                        <p>A confirmação das transações acontece em questão de segundos</p>
                     </div>
                 </div>
                 <div class="why-rdctoken-item item-2">
                     <div class="why-rdctoken-item-text">
                         <h4>CONFIANÇA</h4>
-                        <p>Sistema de masternode que garante a segurança de suas moedas.</p>
+                        <p>Sistema de masternodes que garante a segurança de suas moedas.</p>
                     </div>
                     <div class="why-rdctoken-item-icon">
                         <img src="assets/site/img/lowfees.png" alt="">
@@ -204,13 +204,13 @@ if(!empty($_REQUEST['ref'])){
                     </div>
                     <div class="why-rdctoken-item-text">
                         <h4>CUSTO BAIXO</h4>
-                        <p>Taxas de transferencias baixissimas</p>
+                        <p>Taxas de transferência baixíssimas</p>
                     </div>
                 </div>
                 <div class="why-rdctoken-item item-4">
                     <div class="why-rdctoken-item-text">
                         <h4>PRIVACIDADE</h4>
-                        <p>Privacidade garantida com com transações anonimas</p>
+                        <p>Privacidade garantida com transações anonimas</p>
                     </div>
                     <div class="why-rdctoken-item-icon">
                         <img src="assets/site/img/private.png" alt="">
@@ -258,11 +258,11 @@ if(!empty($_REQUEST['ref'])){
                     </div>
                     <div class="coin-distribuition-item">
                         <div class="green-bar width-5"></div>
-                        <div class="coin-distribution-item-text">Estrutura fisica - <strong>10%</strong></div>
+                        <div class="coin-distribution-item-text">Estrutura física - <strong>10%</strong></div>
                     </div>
                     <div class="coin-distribuition-item">
                         <div class="green-bar width-20"></div>
-                        <div class="coin-distribution-item-text">Desenvolvimento de Novos projetos- <strong>15%</strong></div>
+                        <div class="coin-distribution-item-text">Desenvolvimento de Novos projetos - <strong>15%</strong></div>
                     </div>
 
                     <div class="coin-distribuition-item">
@@ -305,15 +305,15 @@ if(!empty($_REQUEST['ref'])){
                 <div class="timeline-item bottom active">
                     <div class="timeline-icon"></div>
                     <div class="timeline-item-text">
-                        <p class="timeline-item-part">Lote 2 <br><small>Após Fase 1</small></p>
-                        <p class="timeline-item-info"> Total de monedas <br>RDCT 1.125.000</p>
+                        <p class="timeline-item-part">Fase 2 <br><small>Após Fase 1</small></p>
+                        <p class="timeline-item-info"> Total de Moedas <br>RDCT 1.125.000</p>
                     </div>
                 </div>
                 <div class="timeline-item top">
                     <div class="timeline-icon"></div>
                     <div class="timeline-item-text">
-                        <p class="timeline-item-part">Lote 3 <br><small>Após Fase 2</small></p>
-                        <p class="timeline-item-info"> Total de monedas <br>RDCT 1.375.000</p>
+                        <p class="timeline-item-part">Fase 3 <br><small>Após Fase 2</small></p>
+                        <p class="timeline-item-info"> Total de Moedas <br>RDCT 1.375.000</p>
                     </div>
                 </div>
             </div>
