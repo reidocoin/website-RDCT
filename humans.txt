@@ -1,0 +1,9 @@
+# We Are People, Not Machines
+
+/* CURRENT TEAM */
+
+/* THANKS */
+
+humanstxt.org/
+laravel.com/
+vuejs.org/
