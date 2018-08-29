@@ -468,7 +468,7 @@ if(!empty($_REQUEST['ref'])){
                 <a href="#" class="mac" download>
                     <img src="assets/site/img/mac.png" alt="">
                 </a>
-                <a href="https://github.com/RDCToken/RDCToken" class="gh" target="_blank">
+                <a href="https://github.com/reidocoin" class="gh" target="_blank">
                     <img src="assets/site/img/github.png" alt="">
                 </a>
             </nav>
